@@ -13,4 +13,4 @@ Our project aims to build a tele-operated robot, Alex, which can be used to perf
 - Play celebratory tune upon finishing a maze
 
 
-#### For more details, please look at the `Final Report.pdf` document. 
+##### For more details, please look at the `Final Report.pdf` document. 
