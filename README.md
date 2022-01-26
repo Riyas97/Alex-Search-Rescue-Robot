@@ -2,10 +2,15 @@
 
 ## Introduction
 
-Our project aims to build a tele-operated robot, Alex, which can be used to perform search and rescue operations effectively. In order to achieve this purpose, Alex comes with a variety of specifications and requirements that will be further explored in this report. In order to demonstrate Alex’s capabilities, Alex is placed in a 3 m^2 maze filled with obstacles that simulates a disaster area. These obstacles are designed to be at least 18 cm in height which is also the typical Light Detection and Ranging (LiDAR) mounting height. In addition, the maze contains 2 - 4 rooms of which Alex needs to map out.
+Our project aims to build a tele-operated robot, Alex, which can be used to perform search and rescue operations effectively. In order to achieve this purpose, Alex comes with a variety of specifications and requirements that will be further explored in the final report document. 
 
-Alex is expected to move according to the commands (forward, backward, left or right), map out the maze and identify objects during the course of the simulation. There will be 2 - 3 red or green regularly shaped coloured objects (e.g. cube, cylinder) that will be scattered throughout the rooms. Upon locating an object, Alex will have to determine the colour of the object and report the information to the operator.
+## Features of Alex
+- Move according to the commands (forward, backward, left or right)
+- Ability to detect walls and avoid them
+- Ability to map out the maze and identify objects during the course of the simulation
+- Ability to detect colour of regularly shaped coloured objects (e.g. cube, cylinder) and report the information to the operator
+- Ability to detect frequency of sound waves and change direction with respect to the frequency
+- Play celebratory tune upon finishing a maze
 
-The project objectives are met when Alex has successfully performed the above mentioned tasks without faults and collisions.
 
-For more details, please look at the final report file. 
+#### For more details, please look at the [Final Report](Final Report.pdf) document. 
